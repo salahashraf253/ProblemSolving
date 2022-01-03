@@ -28,5 +28,4 @@
 </ul>
 
 <p>&nbsp;</p>
-<p><strong>Follow up:</strong>&nbsp;Could you come up with a one-pass algorithm using only&nbsp;constant extra space?</p>
 </div></div>
