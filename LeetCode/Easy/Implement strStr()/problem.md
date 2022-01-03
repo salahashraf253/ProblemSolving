@@ -1,8 +1,4 @@
 <h1>28. Implement strStr()</h1>
-<p>Implement strStr().
-
-Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.</p>
-
 
 <div><p>Implement <a href="http://www.cplusplus.com/reference/cstring/strstr/" target="_blank">strStr()</a>.</p>
 
