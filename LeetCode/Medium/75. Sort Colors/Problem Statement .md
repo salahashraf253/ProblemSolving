@@ -26,6 +26,4 @@
 	<li><code>1 &lt;= n &lt;= 300</code></li>
 	<li><code>nums[i]</code> is either <code>0</code>, <code>1</code>, or <code>2</code>.</li>
 </ul>
-
-<p>&nbsp;</p>
 </div></div>
