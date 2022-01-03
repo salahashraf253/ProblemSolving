@@ -1,6 +1,6 @@
 <h1>28. Implement strStr()</h1>
 
-<div><p>Implement <a href="http://www.cplusplus.com/reference/cstring/strstr/" target="_blank">strStr()</a>.</p>
+<div><p>Implement <b>strStr()</b>.</p>
 
 <p>Return the index of the first occurrence of needle in haystack, or <code>-1</code> if <code>needle</code> is not part of <code>haystack</code>.</p>
 
