@@ -12,7 +12,8 @@ public:
                 }
             }
             if(flag)sol.push_back(strs[0][i]);
-            else break;
+            else 
+                break;
         }
         return sol;
     }
