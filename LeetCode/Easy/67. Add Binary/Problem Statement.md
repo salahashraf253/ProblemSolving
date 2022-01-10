@@ -17,4 +17,4 @@
 	<li><code>a</code> and <code>b</code> consist&nbsp;only of <code>'0'</code> or <code>'1'</code> characters.</li>
 	<li>Each string does not contain leading zeros except for the zero itself.</li>
 </ul>
-class="difficulty__ES5S">Easy</div></div></div></div></div></div>
+
