@@ -29,9 +29,8 @@ public:
     
     int getMin() {
         for(auto&x:mp){
-            if(x.second>0){
+            if(x.second>0)
                 return x.first;
-            }
         }
         return 0;
     }
