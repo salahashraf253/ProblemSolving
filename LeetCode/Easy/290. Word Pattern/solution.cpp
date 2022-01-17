@@ -24,6 +24,5 @@ bool wordPattern(string pattern, string s) {
     return noOfWords==pattern.size();
 }
 };
-
 // Runtime: 6 ms, faster than 5.47% of C++ online submissions for Word Pattern.
 // Memory Usage: 6.5 MB, less than 18.55% of C++ online submissions for Word Pattern.
